@@ -45,9 +45,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viraaatttt&theme=github&hide_border=true&area=true&color=6e5494&line=6e5494&point=6e5494" alt="Activity Graph" />
 </p>
-
----
-
-<p align="center" style="color:#666; font-size:0.9em;">
-  Crafted with care for a clean, dark, and futuristic look.
-</p>
