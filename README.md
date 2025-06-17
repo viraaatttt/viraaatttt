@@ -1,23 +1,53 @@
-<h1 align="center">Hi 👋, I'm Virat</h1>
-<h3 align="center">Passionate about software development, AI/ML, stuff, etc.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viraaattttt&label=Profile%20views&color=0e75b6&style=flat" alt="viraaattttt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viraaattttt" alt="viraaattttt" /></a> </p>
-
-- 🌱 I’m currently learning **Go**
-
-- 📫 How to reach me **viraaatttt@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/virat-shandilya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/virat-shandilya/" height="30" width="40" /></a>
+<p align="center">
+  <h1 style="color:#c8a2c8;">Hi, I’m <b>viraaatttt</b></h1>
+  <p style="color:#aaa;">Welcome to my GitHub space — clean, dark, and futuristic.</p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraaattttt&show_icons=true&locale=en" alt="viraaattttt" /></p>
+## Connect with me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viraaattttt&" alt="viraaattttt" /></p>
+<p align="center">
+  <a href="https://twitter.com/viraaatttt" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@viraaatttt-6e5494?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/viraaatttt_" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@viraaatttt_-6e5494?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/virat-shandilya/" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-virat--shandilya-6e5494?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:viraaatttt@gmail.com" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img alt="Email" src="https://img.shields.io/badge/Email-viraaatttt@gmail.com-6e5494?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viraaatttt&show_icons=true&hide_border=true&theme=dark&icon_color=6e5494&title_color=6e5494&text_color=ccc" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=viraaatttt&theme=dark&hide_border=true&background=121212&ring=6e5494&fire=6e5494&currStreakLabel=6e5494" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraaatttt&layout=compact&hide_border=true&theme=dark&title_color=6e5494&text_color=ccc" alt="Top Languages" />
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viraaatttt&theme=github&hide_border=true&area=true&color=6e5494&line=6e5494&point=6e5494" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center" style="color:#666; font-size:0.9em;">
+  Crafted with care for a clean, dark, and futuristic look.
+</p>
